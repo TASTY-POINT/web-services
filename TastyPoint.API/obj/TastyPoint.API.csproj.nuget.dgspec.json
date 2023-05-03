@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\david\\Documents\\Moviles\\Web-Services-TastyPoint\\TastyPoint.API\\TastyPoint.API.csproj": {}
+    "C:\\Users\\david\\Documents\\Moviles\\web-services\\web-services\\TastyPoint.API\\TastyPoint.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\david\\Documents\\Moviles\\Web-Services-TastyPoint\\TastyPoint.API\\TastyPoint.API.csproj": {
+    "C:\\Users\\david\\Documents\\Moviles\\web-services\\web-services\\TastyPoint.API\\TastyPoint.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david\\Documents\\Moviles\\Web-Services-TastyPoint\\TastyPoint.API\\TastyPoint.API.csproj",
+        "projectUniqueName": "C:\\Users\\david\\Documents\\Moviles\\web-services\\web-services\\TastyPoint.API\\TastyPoint.API.csproj",
         "projectName": "TastyPoint.API",
-        "projectPath": "C:\\Users\\david\\Documents\\Moviles\\Web-Services-TastyPoint\\TastyPoint.API\\TastyPoint.API.csproj",
+        "projectPath": "C:\\Users\\david\\Documents\\Moviles\\web-services\\web-services\\TastyPoint.API\\TastyPoint.API.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david\\Documents\\Moviles\\Web-Services-TastyPoint\\TastyPoint.API\\obj\\",
+        "outputPath": "C:\\Users\\david\\Documents\\Moviles\\web-services\\web-services\\TastyPoint.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config"

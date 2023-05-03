@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UBEemCSD0GABrxRdJKVFPTezjlL19/TWkYOauwrCDHNKXIQpF2m6lj7/AfAytd1CNFarPKeGvK/NCbHf/bhu0w==",
+  "dgSpecHash": "u7jKB7wc65AnTLjMZ3GHUYVHKYLAA3adggZw58H1yaTEdKmHTCg0TNSHx32HVrG2X+1SPbNgsmOWulp6usKCWA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\david\\Documents\\Moviles\\Web-Services-TastyPoint\\TastyPoint.API.Tests\\TastyPoint.API.Tests.csproj",
+  "projectFilePath": "C:\\Users\\david\\Documents\\Moviles\\web-services\\web-services\\TastyPoint.API.Tests\\TastyPoint.API.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\david\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
