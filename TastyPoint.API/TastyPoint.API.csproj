@@ -1,0 +1,108 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="AutoMapper" Version="12.0.0" />
+        <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+        <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
+        <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.10" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.10" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="6.0.10" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Relational.Design" Version="1.1.6" />
+        <PackageReference Include="MySql.EntityFrameworkCore" Version="6.0.7" />
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+        <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="6.4.0" />
+        <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.25.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Ordering\Domain" />
+      <Folder Include="Ordering\Mapping" />
+      <Folder Include="Ordering\Persistence\Repositories" />
+      <Folder Include="Ordering\Resources" />
+      <Folder Include="Ordering\Services" />
+      <Folder Include="Profiles\Interfaces\Internal" />
+      <Folder Include="Publishing\Domain" />
+      <Folder Include="Publishing\Persistence\Repositories" />
+      <Folder Include="Publishing\Resources" />
+      <Folder Include="Publishing\Services" />
+      <Folder Include="Selling\Interfaces\Internal" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Remove="Controllers\WeatherForecastController.cs" />
+      <Compile Remove="WeatherForecast.cs" />
+      <Compile Remove="Controllers\**" />
+      <Compile Remove="IAM\Repositories\**" />
+      <Compile Remove="Selling\Domain\Repositories\IPackRepository\**" />
+      <Compile Remove="Selling\Controllers\**" />
+      <Compile Remove="Selling\Domain\Models\PackProduct.cs" />
+      <Compile Remove="Ordering\Controllers\**" />
+      <Compile Remove="Profiles\Domain\Entities\**" />
+      <Compile Remove="Profiles\Domain\Models\BusinessProfile.cs" />
+      <Compile Remove="Profiles\Domain\Models\ConsumerProfile.cs" />
+      <Compile Remove="Profiles\Domain\Repositories\IBusinessProfileRepository.cs" />
+      <Compile Remove="Profiles\Controllers\**" />
+      <Compile Remove="Publishing\Controllers\**" />
+      <Compile Remove="IAM\**" />
+      <Compile Remove="Social\Controllers\**" />
+      <Compile Remove="Social\Domain\Models\Repositories\**" />
+      <Compile Remove="Social\Interfaces\Controllers\**" />
+      <Compile Remove="Profiles\Interfaces\Rest\Controllers\UserUserProfile.cs" />
+      <Compile Remove="Subscription\Controllers\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="Controllers\**" />
+      <EmbeddedResource Remove="IAM\Repositories\**" />
+      <EmbeddedResource Remove="Selling\Domain\Repositories\IPackRepository\**" />
+      <EmbeddedResource Remove="Selling\Controllers\**" />
+      <EmbeddedResource Remove="Ordering\Controllers\**" />
+      <EmbeddedResource Remove="Profiles\Domain\Entities\**" />
+      <EmbeddedResource Remove="Profiles\Controllers\**" />
+      <EmbeddedResource Remove="Publishing\Controllers\**" />
+      <EmbeddedResource Remove="IAM\**" />
+      <EmbeddedResource Remove="Social\Controllers\**" />
+      <EmbeddedResource Remove="Social\Domain\Models\Repositories\**" />
+      <EmbeddedResource Remove="Social\Interfaces\Controllers\**" />
+      <EmbeddedResource Remove="Subscription\Controllers\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="Controllers\**" />
+      <None Remove="IAM\Repositories\**" />
+      <None Remove="Selling\Domain\Repositories\IPackRepository\**" />
+      <None Remove="Selling\Controllers\**" />
+      <None Remove="Ordering\Controllers\**" />
+      <None Remove="Profiles\Domain\Entities\**" />
+      <None Remove="Profiles\Controllers\**" />
+      <None Remove="Publishing\Controllers\**" />
+      <None Remove="IAM\**" />
+      <None Remove="Social\Controllers\**" />
+      <None Remove="Social\Domain\Models\Repositories\**" />
+      <None Remove="Social\Interfaces\Controllers\**" />
+      <None Remove="Subscription\Controllers\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Remove="Controllers\**" />
+      <Content Remove="IAM\Repositories\**" />
+      <Content Remove="Selling\Domain\Repositories\IPackRepository\**" />
+      <Content Remove="Selling\Controllers\**" />
+      <Content Remove="Ordering\Controllers\**" />
+      <Content Remove="Profiles\Domain\Entities\**" />
+      <Content Remove="Profiles\Controllers\**" />
+      <Content Remove="Publishing\Controllers\**" />
+      <Content Remove="IAM\**" />
+      <Content Remove="Social\Controllers\**" />
+      <Content Remove="Social\Domain\Models\Repositories\**" />
+      <Content Remove="Social\Interfaces\Controllers\**" />
+      <Content Remove="Subscription\Controllers\**" />
+    </ItemGroup>
+
+</Project>
