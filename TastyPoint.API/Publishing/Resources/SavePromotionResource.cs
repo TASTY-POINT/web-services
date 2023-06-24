@@ -19,5 +19,8 @@ public class SavePromotionResource
     public string? Image { get; set; }
     
     [Required]
+    public int Quantity { get; set; }
+    
+    [Required]
     public int UserProfileId { get; set; }
 }

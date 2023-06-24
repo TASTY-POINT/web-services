@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B4LmGVHoPrYoFVAfrEUSZOsUJhj9qIwxbuo+KUskkOmq1DJMUIjIby3RddSYhUWkuiJP6tdBmXURTL4TURJgOQ==",
+  "dgSpecHash": "17Nj8IJa5BO3mFgB7L1YCBG6EueAV9fg7A49bqHJHrYZdk0LOrCGALdUvUP9pmB6I0egPQEA57R35fkDY8AZMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\david\\Documents\\Moviles\\web-services\\web-services\\TastyPoint.API\\TastyPoint.API.csproj",
+  "projectFilePath": "C:\\Users\\david\\Desktop\\API\\web-services\\TastyPoint.API\\TastyPoint.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\david\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
@@ -129,7 +129,11 @@
     "C:\\Users\\david\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\david\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\david\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.18\\microsoft.netcore.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.18\\microsoft.windowsdesktop.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.18\\microsoft.aspnetcore.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.18\\microsoft.netcore.app.host.win-x64.6.0.18.nupkg.sha512"
   ],
   "logs": []
 }

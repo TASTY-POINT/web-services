@@ -4,11 +4,47 @@
     <projectFile profileName="IIS Express">TastyPoint.API/TastyPoint.API.csproj</projectFile>
     <projectFile profileName="TastyPoint.API">TastyPoint.API/TastyPoint.API.csproj</projectFile>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9eb81142-6741-4865-98d4-ad57cd722cb6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TastyPoint.API/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TastyPoint.API/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API.Tests/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/obj/Debug/net6.0/TastyPoint.API.Tests.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API.Tests/obj/Debug/net6.0/TastyPoint.API.Tests.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/obj/Debug/net6.0/TastyPoint.API.Tests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API.Tests/obj/Debug/net6.0/TastyPoint.API.Tests.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/obj/Debug/net6.0/TastyPoint.API.Tests.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API.Tests/obj/Debug/net6.0/TastyPoint.API.Tests.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TastyPoint.API/obj/staticwebassets.pack.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/obj/staticwebassets.pack.sentinel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/obj/TastyPoint.API.Tests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API.Tests/obj/TastyPoint.API.Tests.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/obj/TastyPoint.API.Tests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API.Tests/obj/TastyPoint.API.Tests.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API.Tests/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API.Tests/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API.Tests/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API.Tests/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/Publishing/Domain/Models/Promotion.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/Publishing/Domain/Models/Promotion.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/Publishing/Resources/PromotionResource.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/Publishing/Resources/PromotionResource.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/Publishing/Resources/SavePromotionResource.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/Publishing/Resources/SavePromotionResource.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/Publishing/Services/PromotionService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/Publishing/Services/PromotionService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/bin/Debug/net6.0/TastyPoint.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/bin/Debug/net6.0/TastyPoint.API.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/bin/Debug/net6.0/TastyPoint.API.exe" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/bin/Debug/net6.0/TastyPoint.API.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/bin/Debug/net6.0/TastyPoint.API.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/bin/Debug/net6.0/TastyPoint.API.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/TastyPoint.API.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/TastyPoint.API.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/TastyPoint.API.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/TastyPoint.API.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/TastyPoint.API.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/TastyPoint.API.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/TastyPoint.API.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/TastyPoint.API.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/TastyPoint.API.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/TastyPoint.API.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/TastyPoint.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/TastyPoint.API.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/TastyPoint.API.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/TastyPoint.API.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/TastyPoint.API.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/TastyPoint.API.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/ref/TastyPoint.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/ref/TastyPoint.API.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/refint/TastyPoint.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/refint/TastyPoint.API.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/obj/TastyPoint.API.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/obj/TastyPoint.API.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/obj/TastyPoint.API.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/obj/TastyPoint.API.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,8 +65,19 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;dotNetConsole&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\david\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\david\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\david\\AppData\\Local\\Symbols\\src&quot;
+    ]
   }
 }</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.TastyPoint.API">
@@ -80,6 +127,9 @@
       <workItem from="1683099104138" duration="1576000" />
       <workItem from="1683101891971" duration="88000" />
       <workItem from="1683265704023" duration="292000" />
+      <workItem from="1687565536521" duration="1019000" />
+      <workItem from="1687567428940" duration="39000" />
+      <workItem from="1687567498773" duration="888000" />
     </task>
     <servers />
   </component>
