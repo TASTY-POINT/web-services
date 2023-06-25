@@ -245,11 +245,6 @@ C:\Users\david\Desktop\API\web-services\TastyPoint.API\obj\Debug\net6.0\TastyPoi
 C:\Users\david\Desktop\API\web-services\TastyPoint.API\obj\Debug\net6.0\TastyPoint.API.csproj.CoreCompileInputs.cache
 C:\Users\david\Desktop\API\web-services\TastyPoint.API\obj\Debug\net6.0\TastyPoint.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\david\Desktop\API\web-services\TastyPoint.API\obj\Debug\net6.0\TastyPoint.API.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\david\Desktop\API\web-services\TastyPoint.API\obj\Debug\net6.0\staticwebassets\msbuild.TastyPoint.API.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\david\Desktop\API\web-services\TastyPoint.API\obj\Debug\net6.0\staticwebassets\msbuild.build.TastyPoint.API.props
-C:\Users\david\Desktop\API\web-services\TastyPoint.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TastyPoint.API.props
-C:\Users\david\Desktop\API\web-services\TastyPoint.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TastyPoint.API.props
-C:\Users\david\Desktop\API\web-services\TastyPoint.API\obj\Debug\net6.0\staticwebassets.pack.json
 C:\Users\david\Desktop\API\web-services\TastyPoint.API\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\david\Desktop\API\web-services\TastyPoint.API\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\david\Desktop\API\web-services\TastyPoint.API\obj\Debug\net6.0\scopedcss\bundle\TastyPoint.API.styles.css

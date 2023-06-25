@@ -77,8 +77,9 @@ public class AppDbContext: DbContext
         builder.Entity<Promotion>().Property(p => p.Id).IsRequired().ValueGeneratedOnAdd();
         builder.Entity<Promotion>().Property(p => p.Title).IsRequired().HasMaxLength(300);
         builder.Entity<Promotion>().Property(p => p.SubTitle).HasMaxLength(300);
-        builder.Entity<Promotion>().Property(p => p.Description).HasMaxLength(500);
+        builder.Entity<Promotion>().Property(p => p.Description).IsRequired();
         builder.Entity<Promotion>().Property(p => p.Image).HasMaxLength(500);
+        builder.Entity<Promotion>().Property(p => p.Quantity);
 
         //Order Entity Mapping Configuration
         builder.Entity<Order>().ToTable("Orders");
