@@ -20,6 +20,20 @@ public class UserProfileController: ControllerBase
         _userProfileService = userProfileService;
         _mapper = mapper;
     }
+    
+    [HttpGet]
+    [SwaggerOperation(
+        Summary = "Get All UserProfiles",
+        Description = "Get all the existing UserProfiles",
+        OperationId = "GetUserProfile",
+        Tags = new []{"UserProfiles"}
+    )]
+    public async Task<IEnumerable<UserProfileResource>> GetAllAsync()
+    {
+        var userProfiles = await _userProfileService.ListAsync();
+        var resources = _mapper.Map<IEnumerable<UserProfile>, IEnumerable<UserProfileResource>>(userProfiles);
+        return resources;
+    }
 
     [HttpGet("{id}")]
     [SwaggerOperation(
