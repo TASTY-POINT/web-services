@@ -13,6 +13,8 @@ public class Promotion
     public string? Image { get; set; }
     
     public int? Quantity { get; set; }
+    public DateOnly? EntryDate { get; set; }
+    public DateOnly? ExpirationDate { get; set; }
     
     //Not sure about the quantity of packs necessary for a Promotion, possible future edit
     public int UserProfileId { get; set; }

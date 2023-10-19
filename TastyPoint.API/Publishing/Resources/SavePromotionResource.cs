@@ -21,6 +21,10 @@ public class SavePromotionResource
     [Required]
     public int Quantity { get; set; }
     
+    public DateOnly EntryDate { get; set; }
+    
+    public DateOnly ExpirationDate { get; set; }
+    
     [Required]
     public int UserProfileId { get; set; }
 }

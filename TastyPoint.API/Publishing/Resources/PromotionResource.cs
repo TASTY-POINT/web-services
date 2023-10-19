@@ -10,5 +10,7 @@ public class PromotionResource
     public string Description { get; set; }
     public string Image { get; set; }
     public int Quantity { get; set; }
+    public DateOnly EntryDate { get; set; }
+    public DateOnly ExpirationDate { get; set; }
     public UserProfileResource UserProfile { get; set; }
 }

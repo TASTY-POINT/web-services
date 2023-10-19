@@ -10,14 +10,81 @@
   <component name="ChangeListManager">
     <list default="true" id="9eb81142-6741-4865-98d4-ad57cd722cb6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TastyPoint.API/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TastyPoint.API/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TastyPoint.API/Profiles/Interfaces/Rest/Controllers/UserProfileController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/Profiles/Interfaces/Rest/Controllers/UserProfileController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/AutoMapper.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/BCrypt.Net-Next.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/BouncyCastle.Crypto.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/Google.Protobuf.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/K4os.Compression.LZ4.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/K4os.Hash.xxHash.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.Design.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/Microsoft.OpenApi.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/MySql.Data.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/MySql.EntityFrameworkCore.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/Swashbuckle.AspNetCore.Annotations.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/System.Drawing.Common.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/System.Security.Permissions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/System.Windows.Extensions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/TastyPoint.API.Tests.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/TastyPoint.API.Tests.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/TastyPoint.API.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/ZstdNet.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/obj/Debug/net6.0/TastyPoint.API.Tests.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API.Tests/obj/Debug/net6.0/TastyPoint.API.Tests.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/obj/Debug/net6.0/TastyPoint.API.Tests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API.Tests/obj/Debug/net6.0/TastyPoint.API.Tests.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/obj/Debug/net6.0/TastyPoint.API.Tests.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API.Tests/obj/Debug/net6.0/TastyPoint.API.Tests.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/obj/Debug/net6.0/ref/TastyPoint.API.Tests.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/obj/TastyPoint.API.Tests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API.Tests/obj/TastyPoint.API.Tests.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API.Tests/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API.Tests/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API.Tests/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API.Tests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API.Tests/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/Publishing/Domain/Models/Promotion.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/Publishing/Domain/Models/Promotion.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/Publishing/Resources/PromotionResource.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/Publishing/Resources/PromotionResource.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/Publishing/Resources/SavePromotionResource.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/Publishing/Resources/SavePromotionResource.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/Publishing/Services/PromotionService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/Publishing/Services/PromotionService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/Shared/Persistence/Contexts/AppDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/Shared/Persistence/Contexts/AppDbContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/appsettings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TastyPoint.API/bin/Debug/net6.0/TastyPoint.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/bin/Debug/net6.0/TastyPoint.API.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/bin/Debug/net6.0/TastyPoint.API.exe" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/bin/Debug/net6.0/TastyPoint.API.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TastyPoint.API/bin/Debug/net6.0/TastyPoint.API.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/bin/Debug/net6.0/TastyPoint.API.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/bin/Debug/net6.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/bin/Debug/net6.0/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/TastyPoint.API.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/TastyPoint.API.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/TastyPoint.API.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/TastyPoint.API.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/TastyPoint.API.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/TastyPoint.API.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/TastyPoint.API.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/TastyPoint.API.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/TastyPoint.API.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/TastyPoint.API.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/TastyPoint.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/TastyPoint.API.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/TastyPoint.API.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/TastyPoint.API.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/apphost.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/ref/TastyPoint.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/ref/TastyPoint.API.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/refint/TastyPoint.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/obj/Debug/net6.0/refint/TastyPoint.API.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TastyPoint.API/obj/staticwebassets.pack.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/obj/staticwebassets.pack.sentinel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/obj/TastyPoint.API.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/obj/TastyPoint.API.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TastyPoint.API/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +175,10 @@
       <workItem from="1687661413971" duration="2595000" />
       <workItem from="1687730799796" duration="661000" />
       <workItem from="1687903722424" duration="48000" />
-      <workItem from="1687917271847" duration="1694000" />
+      <workItem from="1687917271847" duration="2387000" />
+      <workItem from="1688360271472" duration="638000" />
+      <workItem from="1692239422553" duration="595000" />
+      <workItem from="1697754180483" duration="1773000" />
     </task>
     <servers />
   </component>

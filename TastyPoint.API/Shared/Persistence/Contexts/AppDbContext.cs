@@ -80,6 +80,8 @@ public class AppDbContext: DbContext
         builder.Entity<Promotion>().Property(p => p.Description).IsRequired();
         builder.Entity<Promotion>().Property(p => p.Image).HasMaxLength(500);
         builder.Entity<Promotion>().Property(p => p.Quantity);
+        builder.Entity<Promotion>().Property(p => p.ExpirationDate);
+        builder.Entity<Promotion>().Property(p => p.EntryDate);
 
         //Order Entity Mapping Configuration
         builder.Entity<Order>().ToTable("Orders");
