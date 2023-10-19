@@ -9,7 +9,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9eb81142-6741-4865-98d4-ad57cd722cb6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TastyPoint.API/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TastyPoint.API/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TastyPoint.API/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/TastyPoint.API/appsettings.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +104,7 @@
       <workItem from="1687917271847" duration="2387000" />
       <workItem from="1688360271472" duration="638000" />
       <workItem from="1692239422553" duration="595000" />
-      <workItem from="1697754180483" duration="2136000" />
+      <workItem from="1697754180483" duration="2389000" />
     </task>
     <task id="LOCAL-00001" summary="add entry and expiration date">
       <option name="closed" value="true" />
